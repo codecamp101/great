@@ -145,6 +145,9 @@ button{
     /* border: 1px solid red; */
     width: 50%;
     padding: 3em 1em;
+    background-position: 70% center;
+    background-repeat: no-repeat;
+    background-size: 30%;
 }
 #checkBtn{
     /* border: 3px solid red; */

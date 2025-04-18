@@ -42,6 +42,7 @@ const dob = new Date('5/27/2010').getTime();// date format in JavaScript mm-dd-y
 pan.querySelector('#dob').textContent = Intl.DateTimeFormat('en',{dateStyle:'full'}).format(dob);
 //FUNCTIONS
 // A function is a group of statements that does not run unless when called
+/*
 function calculator () {
     console.log(2 + 4);
     console.log(10 - 5);
@@ -50,6 +51,7 @@ function calculator () {
     console.log(5 % 3); //modulus (short form is mod): the remain
 }
 calculator();
+*/
 function callConfetti () {
     /*
     const t = "ME"
